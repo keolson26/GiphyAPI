@@ -1,0 +1,30 @@
+img {
+	height: 225px;
+	width: 225px;
+	margin: 8px;
+}
+
+button {
+	margin: 5px;
+	font-family: 'Ropa Sans', sans-serif;
+}
+
+.panel-heading {
+	font-family: 'Ropa Sans', sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 15px;
+}
+
+#addBtn {
+	font-family: 'Ropa Sans', sans-serif;
+}
+
+.jumbotron {
+	font-family: 'Permanent Marker', cursive;
+}
+
+.headerStyle {
+	font-family: 'Ropa Sans', sans-serif;
+	font-weight: bold;
+}
