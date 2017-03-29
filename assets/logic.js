@@ -1,4 +1,4 @@
-var topics = ["Gob Bluth", "Daria", "Shaq", "Chris Farley", "Liz Lemon","Ron Burgundy", "Archer", "Jim Lahey", "Leslie Knope", "Drake" ];
+var topics = ["Gob Bluth", "Daria", "Shaq","Zoidberg","Chris Farley", "Liz Lemon","Ron Burgundy", "Monty Burns", "Leslie Knope", "Drake" ];
 var displayCount = 10;
 
 
